@@ -1,6 +1,6 @@
-//M. Zain Khan
-//2022F-BSE-003/A
-//TASK 1
+//Ausaf
+//2022F-BSE-007/A
+//LAB TASK1
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;
