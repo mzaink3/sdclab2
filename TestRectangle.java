@@ -1,6 +1,6 @@
-//M. Zain Khan
-//2022F-BSE-003/A
-//SDCLAB2 TASK2
+//M. Ausaf
+//2022F-BSE-007/A
+//LAB TASK 2
 
 import java.util.Scanner;
 
